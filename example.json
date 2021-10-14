@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "三宅町交流まちづくりセンター",
+        "description": "2021年7月にオープンした新しい施設です",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.773304,
+          34.573377
+        ]
+      }
+    }
+  ]
+}
